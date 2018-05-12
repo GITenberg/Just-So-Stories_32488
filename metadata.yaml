@@ -25,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: Seven tales that explain special things about animals, such as how the
   whale got his tiny throat, the camel his hump and the leopard his spots.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32488#Just-So-Stories
 gutenberg_issued: '2010-05-23'
 gutenberg_type: Text
 identifiers:
